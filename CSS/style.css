@@ -16,7 +16,7 @@ body {
 
 .header {
   min-height: 100vh;
-  background: linear-gradient(180deg, rgba(98, 20, 2, 0.3) 0%, #621402 85.62%), url(img/fon.webp) no-repeat center top / cover;
+  background: linear-gradient(180deg, rgba(98, 20, 2, 0.3) 0%, #621402 85.62%), url(../img/fon.jpg) no-repeat center top / cover;
 }
 
 .navbar {
